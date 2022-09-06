@@ -6,7 +6,7 @@
 
 ## ✨ 我想要历年课程数据
 
-如果你只需要已经爬取好的课程数据包，可以前往 [Releases](https://github.com/Ahacad/FDUCourseData/releases) 页面下载所需数据包。
+如果你只需要已经爬取好的课程数据包，可以前往 [Releases](https://github.com/Biogod2020/FDUCourseData/releases/tag/%E5%A4%8D%E6%97%A6) 页面下载所需数据包。
 
 ⚠️ 注意：[2021冬季学期及以前的数据](https://github.com/Ahacad/FDUCourseData/releases/tag/old)为旧版格式，与新版爬虫脚本生成的格式并不完全一致，若需要统一格式请自行处理。本仓库的 Releases 页面仅出于备份数据目的。
 
